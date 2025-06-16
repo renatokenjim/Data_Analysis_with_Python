@@ -1,2 +1,2 @@
-# 'Data Analysis with Python' course
+# FreeCodeCamp 'Data Analysis with Python' course
 Certification Projects
